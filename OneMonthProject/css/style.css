@@ -1,0 +1,37 @@
+
+
+
+
+body {
+
+	background: url('../images/mycareer.jpg');
+	background-position: center;
+	background-attachment: fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+
+
+}
+
+
+
+#container {
+	font-family: 'Krona One', sans-serif; 
+	color: #96f609;
+	width: 400px;
+	text-align: center;
+	padding-top: 100px;
+	float: left;
+}
+
+#video {
+	font-family: 'Krona One', sans-serif; 
+	color: #96f609;
+	text-align: right;
+	width:400px;
+	padding-top: 250px;
+	padding-left: 750px;
+	
+}
